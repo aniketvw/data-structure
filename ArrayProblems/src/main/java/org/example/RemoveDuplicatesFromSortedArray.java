@@ -1,5 +1,5 @@
 package org.example;
-
+//Double pointer me counter se hi i waali condition check kar rai
 public class RemoveDuplicatesFromSortedArray {
 
     public static void main(String[] args) {
